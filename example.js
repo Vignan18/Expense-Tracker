@@ -31,7 +31,6 @@ function SearchBar({filterText,onFilterTextChange}) {
   );
 }
 
-
 export default function App() {
   return <FilterableProductTable />;
 }
